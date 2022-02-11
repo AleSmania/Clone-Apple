@@ -22,7 +22,6 @@ body {
     padding: 0;
     left: calc(50% + 0px);
     right: auto;
-    bottom: 0px;
     top: auto;
     -webkit-transform: translatex(-50%);
     transform: translatex(-50%);
