@@ -10,6 +10,20 @@ body {
     height: 592px;
 }
 .iphoneImage{
-    object-fit: cover;
-    
+    width: 3010px;
+    height: 624px;
+    background-size: 3010px 624px;
+    background-repeat: no-repeat;
+    background-image: url(/v/home/aj/images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_large.jpg);
+    z-index: 1;
+    position: absolute;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    left: calc(50% + 0px);
+    right: auto;
+    bottom: 0px;
+    top: auto;
+    -webkit-transform: translatex(-50%);
+    transform: translatex(-50%);
 }
