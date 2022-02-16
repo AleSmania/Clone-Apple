@@ -213,4 +213,19 @@ body {
         font-size: 30px;
         padding-inline: 2em;
     }
+    .multipleBoxes {
+        display: flex;
+        background-color: #2997FF;
+        flex-wrap:wrap;
+    }
+    .smallBox {
+        height: 624px;
+        background-color: #602D62;
+        flex-grow: 1;
+        margin: 15px;
+        min-width: 350px;
+    
+
+
+    }
 }
